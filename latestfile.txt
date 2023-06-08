@@ -1,0 +1,12 @@
+hello world
+
+
+git init /to intialize
+git add .     or git add ./latest.txt
+git commit -m  "feat:precise meaning full message"
+git push origin <branch name> (main)
+
+
+names of branch 
+  feat_meetingroom_booking
+  bugfix_meetingroom_booking
